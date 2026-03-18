@@ -1,0 +1,5 @@
+/* App core styles - mostly handled by Tailwind */
+.App {
+  width: 100%;
+  min-height: 100vh;
+}
